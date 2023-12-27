@@ -1,0 +1,11 @@
+
+
+html, body {
+   background-color: gray;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 20px;
+    color: black;
+}
